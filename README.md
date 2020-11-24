@@ -22,7 +22,7 @@
 - Hide Backside of Entitities - None ([Sk1er Patcher](https://sk1er.club/mods/patcher) will most likely help performance more than this does)
 
 # Minecraft Chat
-- Autotext (May be bannable on Hypixel) - [MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/2659839) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/)
+- Autotext (!!! Bannable on Hypixel !!!) - [MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/2659839) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/)
 - Name History - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - Chat Icons - [RoccoDev 5Zig Reborn](https://5zigreborn.eu/)
 - Chat Filter - [RoccoDev 5Zig Reborn](https://5zigreborn.eu/)
@@ -108,7 +108,7 @@ _External Services_
 - CustomFont - [SmoothFont](https://www.curseforge.com/minecraft/mc-mods/smooth-font/files/2568454)
 - Custom Main Menu - [CMM](https://www.curseforge.com/minecraft/mc-mods/custom-main-menu/files/2280558) & [ResourceLoader](https://www.curseforge.com/minecraft/mc-mods/resource-loader/files/2271089)
 - CustomTime - [2Pi TimeChanger](https://2pi.pw/mods/timechanger)
-- DamageIndicator (May be bannable on Hypixel) - [Toro (is 100% bannable on Hypixel. Do NOT use on Hypixel!)](https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators/files/2353090)
+- DamageIndicator (!!! Bannable on Hypixel !!!) - [Toro](https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators/files/2353090)
 - Direct Connect History - None
 - DirectionHUD - [bspkr's DirectionHud (doesn't require bspkrs core)](https://github.com/ReflxctionDev/bspkrsCore/releases/tag/1.24) / [Canalex](https://www.youtube.com/watch?v=Anwxqk2EAlE)
 - FastJoin - None
