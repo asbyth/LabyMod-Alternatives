@@ -126,7 +126,7 @@ _External Services_
 - Item Physics - [CreativeMD ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files/2439695)
 - Keystrokes - [Sk1er Keystrokes](https://sk1er.club/mods/keystrokesmod)
 - Minigames - None
-- MiniMap (May be bannable on Hypixel) - [VoxelMap (requires liteloader)](https://www.curseforge.com/minecraft/mc-mods/voxelmap/files/2460202) / [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap/files/2311867) / [Powns Simple MiniMap](https://github.com/pownsgg/MiniMap)
+- MiniMap (!!! Bannable on Hypixel !!!) - [VoxelMap (requires liteloader)](https://www.curseforge.com/minecraft/mc-mods/voxelmap/files/2460202) / [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap/files/2311867) / [Powns Simple MiniMap](https://github.com/pownsgg/MiniMap)
 - More Particles - [Dewgs](https://www.mediafire.com/file/z42f9gzegatz9cq/%255B1.8.9%255DParticleMod-1.02.jar/file)
 - Motion Blur - [Various Shaders (Must join Sk1er Discord for link to work)](https://canary.discordapp.com/channels/411619823445999637/411620521382510592/702326988228263936) / [Sk1er Motionblur](https://sk1er.club/mods/motionblurmod)
 - OptiFine - [sp614x OptiFine](https://optifine.net)
