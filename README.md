@@ -106,9 +106,9 @@ _External Services_
 - Custom Hitboxes - None
 - CustomFilterSounds - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - CustomFont - [SmoothFont](https://www.curseforge.com/minecraft/mc-mods/smooth-font/files/2568454)
-- Custom Main Menu - [CMM](https://www.curseforge.com/minecraft/mc-mods/custom-main-menu/files/2280558) & [ResourceLoader](https://www.curseforge.com/minecraft/mc-mods/resource-loader/files/2271089)
+- Custom Main Menu - [Lumien231 CMM](https://www.curseforge.com/minecraft/mc-mods/custom-main-menu/files/2280558) & [Lumien231 ResourceLoader](https://www.curseforge.com/minecraft/mc-mods/resource-loader/files/2271089)
 - CustomTime - [2Pi TimeChanger](https://2pi.pw/mods/timechanger)
-- DamageIndicator (!!! Bannable on Hypixel !!!) - [Toro](https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators/files/2353090)
+- DamageIndicator (!!! Bannable on Hypixel !!!) - [Toro Damage Indicators](https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators/files/2353090)
 - Direct Connect History - None
 - DirectionHUD - [bspkr's DirectionHud (doesn't require bspkrs core)](https://github.com/ReflxctionDev/bspkrsCore/releases/tag/1.24) / [Canalex](https://www.youtube.com/watch?v=Anwxqk2EAlE)
 - FastJoin - None
