@@ -95,7 +95,7 @@ _External Services_
 - BetterHat - None
 - Better Perspective - [DJtheRedstoner Perspective Mod](https://github.com/DJtheRedstoner/PerspectiveModv4/releases/)
 - BetterScreenshot - [Sk1er Patcher](https://sk1er.club/mods/patcher)
-- ChatLog - [Cow Cowlection](https://github.com/cow-mc/Cowlection/releases/download/v1.8.9-0.11.0/Cowlection-1.8.9-0.11.0.jar)/ Minecraft Logs
+- ChatLog - [Cow Cowlection](https://github.com/cow-mc/Cowlection/releases/download/v1.8.9-0.11.0/Cowlection-1.8.9-0.11.0.jar) / Minecraft Logs
 - ChatTime - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - ChatTranslator - None
 - Color Correction - None
