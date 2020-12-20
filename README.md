@@ -48,7 +48,7 @@
 - Improved Skin Customization - None ([Patcher](https://sk1er.club/mods/patcher) does add 1.9+ skin transparency however)
 - Better Shader Selection - None
 - Live Serverlist - None
-- Custom Inventory Scale - [Moulberry](https://github.com/Moulberry/BetterScaledGUI/releases/)
+- Custom Inventory Scale - [Sk1er Patcher (beta)](https://sk1er.club/beta)
 
 # Additional
 - Show My Name - [Sk1er Patcher](https://sk1er.club/mods/patcher)
