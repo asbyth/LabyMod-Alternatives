@@ -101,7 +101,7 @@ _External Services_
 - Color Correction - None
 - ConnectionHistory - None
 - Controller - None
-- Custom Block Overlay - [Aycy BlockOverlay](https://www.youtube.com/watch?v=_ELFA5jtNQM)
+- Custom Block Overlay - [Aycy BlockOverlay](https://hypixel.net/threads/forge-1-8-9-block-overlay-v4-0-3.1417995/)
 - Custom Crosshair Mod - [Sparkless Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/2304056)
 - Custom Hitboxes - None
 - CustomFilterSounds - [Sk1er Patcher](https://sk1er.club/mods/patcher)
