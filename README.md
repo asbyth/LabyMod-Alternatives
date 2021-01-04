@@ -103,7 +103,7 @@ _External Services_
 - Controller - None
 - Custom Block Overlay - [Aycy BlockOverlay](https://hypixel.net/threads/forge-1-8-9-block-overlay-v4-0-3.1417995/)
 - Custom Crosshair Mod - [Sparkless Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/2304056)
-- Custom Hitboxes - None
+- Custom Hitboxes - [Aycy HitboxColors](http://www.mediafire.com/file/rci3i8m09yoek7u/HitboxColors-v1.0.jar)
 - CustomFilterSounds - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - CustomFont - [SmoothFont](https://www.curseforge.com/minecraft/mc-mods/smooth-font/files/2568454)
 - Custom Main Menu - [Lumien231 CMM](https://www.curseforge.com/minecraft/mc-mods/custom-main-menu/files/2280558) & [Lumien231 ResourceLoader](https://www.curseforge.com/minecraft/mc-mods/resource-loader/files/2271089)
