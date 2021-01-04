@@ -141,4 +141,4 @@ _External Services_
 - WorldEditCUI - [Mumfrey WorldEditCUI](https://www.curseforge.com/minecraft/mc-mods/worldeditcui/files/2352911)
 - VoiceChat - None
 
-# This list is a work in progress. Mods are subject to change. Please let me know if there's anything missing.
+# This list is a work in progress. Mods are subject to change. Please make a PR if there's anything missing.
