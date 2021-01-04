@@ -118,7 +118,7 @@ _External Services_
 - GUI Blur Mod - [tterrag Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files/26)
 - HDSkins - None
 - HeadOwner - None
-- Hotbar - [FacUtils Black Bar [requires Sk1er Discord - Thanks Luna!](https://canary.discord.com/channels/411619823445999637/411620457754787841/794326180819107880)
+- Hotbar - [FacUtils Black Bar requires Sk1er Discord - Thanks Luna!](https://canary.discord.com/channels/411619823445999637/411620457754787841/794326180819107880)
 - Hypixel Quick Play - [Bugfroggy QuickPlay](https://hypixel.net/threads/forge-quickplay-v2-0-3-quickly-join-games-on-the-network.1317410/)
 - I Love Music - None
 - Instagram - None
