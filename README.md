@@ -131,7 +131,7 @@ _External Services_
 - Motion Blur - [Various Shaders (Must join Sk1er Discord for link to work)](https://canary.discordapp.com/channels/411619823445999637/411620521382510592/702326988228263936) / [Sk1er Motionblur](https://sk1er.club/mods/motionblurmod)
 - OptiFine - [sp614x OptiFine](https://optifine.net)
 - Rainbow GUI - [Sk1er ChromaHUD](https://sk1er.club/mods/ChromaHUD)
-- ResourcePack 24 - [Official Mod](https://resourcepacks24.de/texturepack-mod) / [Aycy Resource Pack Manager (Only adds ability to make folders)](https://www.youtube.com/watch?v=OQZFWrrE)
+- ResourcePack 24 - [Official Mod](https://resourcepacks24.de/texturepack-mod) / [Aycy Resource Pack Manager (Only adds ability to make folders)](https://www.youtube.com/watch?v=OQZFWrrEcYM)
 - Send To Server - None
 - ShinyPots - [RoccoDev](https://github.com/RoccoDev/ShinyPots-1.8/releases/tag/1.5)
 - Spotify - [DecobrDev MediaMod](https://www.curseforge.com/minecraft/mc-mods/mediamod/files/2797563)
