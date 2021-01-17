@@ -22,7 +22,7 @@
 - Hide Backside of Entitities - None ([Sk1er Patcher](https://sk1er.club/mods/patcher) will most likely help performance more than this does)
 
 # Minecraft Chat
-- Autotext (!!! Bannable on Hypixel !!!) - [MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/2659839) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/)
+- Autotext (**!!! Bannable on Hypixel !!!**) - [MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/2659839) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/)
 - Name History - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - Chat Icons - [RoccoDev 5Zig Reborn](https://5zigreborn.eu/)
 - Chat Filter - [RoccoDev 5Zig Reborn](https://5zigreborn.eu/)
@@ -92,7 +92,7 @@ _External Services_
 - AutoGG - [Sk1er AutoGG](https://sk1er.club/mods/autogg)
 - AutoReconnect - [RoccoDev 5Zig Reborn](https://5zigreborn.eu/)
 - Batty's Coordinates - [Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073) 
-- BetterHat - [Noppes_ More Player Models (unsure if completely client sided, please test!)](https://www.curseforge.com/minecraft/mc-mods/more-player-models/files/2284120)
+- BetterHat - [Noppes_ More Player Models (**unsure if completely client sided, please test!**)](https://www.curseforge.com/minecraft/mc-mods/more-player-models/files/2284120)
 - Better Perspective - [DJtheRedstoner Perspective Mod](https://github.com/DJtheRedstoner/PerspectiveModv4/releases/)
 - BetterScreenshot - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - ChatLog - [Cow Cowlection](https://github.com/cow-mc/Cowlection/releases/download/v1.8.9-0.11.0/Cowlection-1.8.9-0.11.0.jar) / Minecraft Logs
@@ -108,7 +108,7 @@ _External Services_
 - CustomFont - [SmoothFont](https://www.curseforge.com/minecraft/mc-mods/smooth-font/files/2568454)
 - Custom Main Menu - [Lumien231 CMM](https://www.curseforge.com/minecraft/mc-mods/custom-main-menu/files/2280558) & [Lumien231 ResourceLoader](https://www.curseforge.com/minecraft/mc-mods/resource-loader/files/2271089)
 - CustomTime - [2Pi TimeChanger](https://2pi.pw/mods/timechanger)
-- DamageIndicator (!!! Bannable on Hypixel !!!) - [Toro Damage Indicators](https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators/files/2353090)
+- DamageIndicator (**!!! Bannable on Hypixel !!!**) - [Toro Damage Indicators](https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators/files/2353090)
 - Direct Connect History - None
 - DirectionHUD - [bspkr's DirectionHud (doesn't require bspkrs core)](https://github.com/ReflxctionDev/bspkrsCore/releases/tag/1.24) / [Canalex](https://www.youtube.com/watch?v=Anwxqk2EAlE)
 - FastJoin - None
@@ -118,7 +118,7 @@ _External Services_
 - GUI Blur Mod - [tterrag Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files/26)
 - HDSkins - [xflo3 CustomSkinLoader](https://www.curseforge.com/minecraft/mc-mods/customskinloader/files/3106765)
 - HeadOwner - None
-- Hotbar - [FacUtils Black Bar (requires Sk1er Discord - Thanks Luna!)](https://canary.discord.com/channels/411619823445999637/411620457754787841/794326180819107880)
+- Hotbar - [FacUtils Black Bar (requires Sk1er Discord - *Thanks Luna!*)](https://canary.discord.com/channels/411619823445999637/411620457754787841/794326180819107880)
 - Hypixel Quick Play - [Bugfroggy QuickPlay](https://hypixel.net/threads/forge-quickplay-v2-0-3-quickly-join-games-on-the-network.1317410/)
 - I Love Music - None
 - Instagram - None
@@ -126,7 +126,7 @@ _External Services_
 - Item Physics - [CreativeMD ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files/2439695)
 - Keystrokes - [Sk1er Keystrokes](https://sk1er.club/mods/keystrokesmod)
 - Minigames - None
-- MiniMap (!!! Bannable on Hypixel !!!) - [VoxelMap (requires liteloader)](https://www.curseforge.com/minecraft/mc-mods/voxelmap/files/2460202) / [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap/files/2311867) / [Powns Simple MiniMap](https://github.com/pownsgg/MiniMap)
+- MiniMap (**!!! Bannable on Hypixel !!!**) - [VoxelMap (requires liteloader)](https://www.curseforge.com/minecraft/mc-mods/voxelmap/files/2460202) / [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap/files/2311867) / [Powns Simple MiniMap](https://github.com/pownsgg/MiniMap)
 - More Particles - [Dewgs](https://www.mediafire.com/file/z42f9gzegatz9cq/%255B1.8.9%255DParticleMod-1.02.jar/file)
 - Motion Blur - [Various Shaders (Must join Sk1er Discord for link to work)](https://canary.discordapp.com/channels/411619823445999637/411620521382510592/702326988228263936) / [Sk1er Motionblur](https://sk1er.club/mods/motionblurmod)
 - OptiFine - [sp614x OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M5_pre2.jar)
