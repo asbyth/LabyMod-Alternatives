@@ -34,7 +34,7 @@
 - Secondary Chat - [5Zig Reborn](https://5zigreborn.eu/)
 
 # PvP
-- Speed FOV - [sp614x OptiFine](https://optifine.net)
+- Speed FOV - [sp614x OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M5_pre2.jar)
 - Swap Bow - None
 
 # Menu GUI
@@ -129,7 +129,7 @@ _External Services_
 - MiniMap (!!! Bannable on Hypixel !!!) - [VoxelMap (requires liteloader)](https://www.curseforge.com/minecraft/mc-mods/voxelmap/files/2460202) / [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap/files/2311867) / [Powns Simple MiniMap](https://github.com/pownsgg/MiniMap)
 - More Particles - [Dewgs](https://www.mediafire.com/file/z42f9gzegatz9cq/%255B1.8.9%255DParticleMod-1.02.jar/file)
 - Motion Blur - [Various Shaders (Must join Sk1er Discord for link to work)](https://canary.discordapp.com/channels/411619823445999637/411620521382510592/702326988228263936) / [Sk1er Motionblur](https://sk1er.club/mods/motionblurmod)
-- OptiFine - [sp614x OptiFine](https://optifine.net)
+- OptiFine - [sp614x OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M5_pre2.jar)
 - Rainbow GUI - [Sk1er ChromaHUD](https://sk1er.club/mods/ChromaHUD)
 - ResourcePack 24 - [Official Mod](https://resourcepacks24.de/texturepack-mod) / [Aycy Resource Pack Manager (Only adds ability to make folders)](https://www.youtube.com/watch?v=OQZFWrrEcYM)
 - Send To Server - None
