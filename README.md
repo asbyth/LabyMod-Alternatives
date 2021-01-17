@@ -92,7 +92,7 @@ _External Services_
 - AutoGG - [Sk1er AutoGG](https://sk1er.club/mods/autogg)
 - AutoReconnect - [RoccoDev 5Zig Reborn](https://5zigreborn.eu/)
 - Batty's Coordinates - [Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073) 
-- BetterHat - None
+- BetterHat - [Noppes_ More Player Models (unsure if completely client sided, please test!)](https://www.curseforge.com/minecraft/mc-mods/more-player-models/files/2284120)
 - Better Perspective - [DJtheRedstoner Perspective Mod](https://github.com/DJtheRedstoner/PerspectiveModv4/releases/)
 - BetterScreenshot - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - ChatLog - [Cow Cowlection](https://github.com/cow-mc/Cowlection/releases/download/v1.8.9-0.11.0/Cowlection-1.8.9-0.11.0.jar) / Minecraft Logs
@@ -116,7 +116,7 @@ _External Services_
 - FriendViewer - [Sk1er ModCore](https://sk1er.club/modcore)
 - FullBright - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - GUI Blur Mod - [tterrag Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files/26)
-- HDSkins - None
+- HDSkins - [xflo3 CustomSkinLoader](https://www.curseforge.com/minecraft/mc-mods/customskinloader/files/3106765)
 - HeadOwner - None
 - Hotbar - [FacUtils Black Bar (requires Sk1er Discord - Thanks Luna!)](https://canary.discord.com/channels/411619823445999637/411620457754787841/794326180819107880)
 - Hypixel Quick Play - [Bugfroggy QuickPlay](https://hypixel.net/threads/forge-quickplay-v2-0-3-quickly-join-games-on-the-network.1317410/)
