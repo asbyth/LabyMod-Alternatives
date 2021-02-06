@@ -11,7 +11,7 @@
 
 # Bugfixes
 - Lava Optimization - [Powns Lava Fix](https://download.powns.dev/lavafix189)
-- Optimize Soup & Potion Refill (May be bannable on Hypixel) - None
+- Optimize Soup & Potion Refill (**!!! Bannable on Hypixel !!!**) - None
 - Synchronised Crosshair - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - Particle Optimization - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 
@@ -34,7 +34,7 @@
 - Secondary Chat - [5Zig Reborn](https://5zigreborn.eu/)
 
 # PvP
-- Speed FOV - [sp614x OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M5_pre2.jar)
+- Speed FOV - [sp614x OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M5.jar)
 - Swap Bow - None
 
 # Menu GUI
@@ -101,16 +101,16 @@ _External Services_
 - Color Correction - None
 - ConnectionHistory - None
 - Controller - None
-- Custom Block Overlay - [Aycy BlockOverlay](https://hypixel.net/threads/forge-1-8-9-block-overlay-v4-0-3.1417995/)
+- Custom Block Overlay - [aycy BlockOverlay](https://hypixel.net/threads/forge-1-8-9-block-overlay-v4-0-3.1417995/)
 - Custom Crosshair Mod - [Sparkless Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/2304056)
-- Custom Hitboxes - [Aycy HitboxColors](http://www.mediafire.com/file/rci3i8m09yoek7u/HitboxColors-v1.0.jar)
+- Custom Hitboxes - [aycy HitboxColors](http://www.mediafire.com/file/rci3i8m09yoek7u/HitboxColors-v1.0.jar)
 - CustomFilterSounds - [Sk1er Patcher](https://sk1er.club/mods/patcher)
-- CustomFont - [SmoothFont](https://www.curseforge.com/minecraft/mc-mods/smooth-font/files/2568454)
+- CustomFont - [bre2el SmoothFont](https://www.curseforge.com/minecraft/mc-mods/smooth-font/files/2568454)
 - Custom Main Menu - [Lumien231 CMM](https://www.curseforge.com/minecraft/mc-mods/custom-main-menu/files/2280558) & [Lumien231 ResourceLoader](https://www.curseforge.com/minecraft/mc-mods/resource-loader/files/2271089)
-- CustomTime - [2Pi TimeChanger](https://2pi.pw/mods/timechanger)
+- CustomTime - [Shatterpoint TimeChanger](https://github.com/shatter-point/Revamped-TimeChanger/releases/download/v1.2/TimeChanger-2.2.jar)
 - DamageIndicator (**!!! Bannable on Hypixel !!!**) - [Toro Damage Indicators](https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators/files/2353090)
 - Direct Connect History - None
-- DirectionHUD - [bspkr's DirectionHud (doesn't require bspkrs core)](https://github.com/ReflxctionDev/bspkrsCore/releases/tag/1.24) / [Canalex](https://www.youtube.com/watch?v=Anwxqk2EAlE)
+- DirectionHUD - [Reflxtion bspkr's DirectionHud (doesn't require bspkrs core)](https://github.com/ReflxctionDev/bspkrsCore/releases/tag/1.24) / [Canalex](https://www.youtube.com/watch?v=Anwxqk2EAlE)
 - FastJoin - None
 - Friend Tags - [Reflxction NameModifier](https://github.com/ReflxctionDev/NameModifier/releases)
 - FriendViewer - [Sk1er ModCore](https://sk1er.club/modcore)
@@ -129,9 +129,9 @@ _External Services_
 - MiniMap (**!!! Bannable on Hypixel !!!**) - [VoxelMap (requires liteloader)](https://www.curseforge.com/minecraft/mc-mods/voxelmap/files/2460202) / [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap/files/2311867) / [Powns Simple MiniMap](https://github.com/pownsgg/MiniMap)
 - More Particles - [Dewgs](https://www.mediafire.com/file/z42f9gzegatz9cq/%255B1.8.9%255DParticleMod-1.02.jar/file)
 - Motion Blur - [Various Shaders (Must join Sk1er Discord for link to work)](https://canary.discordapp.com/channels/411619823445999637/411620521382510592/702326988228263936) / [Sk1er Motionblur](https://sk1er.club/mods/motionblurmod)
-- OptiFine - [sp614x OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M5_pre2.jar)
+- OptiFine - [sp614x OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M5.jar)
 - Rainbow GUI - [Sk1er ChromaHUD](https://sk1er.club/mods/ChromaHUD)
-- ResourcePack 24 - [Official Mod](https://resourcepacks24.de/texturepack-mod) / [Aycy Resource Pack Manager (Only adds ability to make folders)](https://www.youtube.com/watch?v=OQZFWrrEcYM)
+- ResourcePack 24 - [Official Mod](https://resourcepacks24.de/texturepack-mod) / [aycy Resource Pack Manager (Only adds ability to make folders)](https://www.youtube.com/watch?v=OQZFWrrEcYM)
 - Send To Server - None
 - ShinyPots - [RoccoDev](https://github.com/RoccoDev/ShinyPots-1.8/releases/tag/1.5)
 - Spotify - [DecobrDev MediaMod](https://www.curseforge.com/minecraft/mc-mods/mediamod/files/2797563)
