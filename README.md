@@ -19,7 +19,7 @@
 - Chunk Caching - None
 - Fast World Loading - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - Hide Entities Behind Blocks - [Sk1er Patcher](https://sk1er.club/mods/patcher)
-- Hide Backside of Entitities - None ([Sk1er Patcher](https://sk1er.club/mods/patcher) will most likely help performance more than this does)
+- Hide Backside of Entitities - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 
 # Minecraft Chat
 - Autotext (**!!! Bannable on Hypixel !!!**) - [MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/2659839) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/)
