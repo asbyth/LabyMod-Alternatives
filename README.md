@@ -61,27 +61,27 @@
 # Ingame GUI 
 
 _Information_
-- FPS Counter - [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073) / [Sk1er Keystrokes](https://sk1er.club/mods/keystrokesmod) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/)
-- Coordinates - [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073) / [Powns Coords Hud](https://download.powns.dev/coordsmod189) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/)
+- FPS Counter - [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073) / [Sk1er Keystrokes](https://sk1er.club/mods/keystrokesmod) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/) / [SimpleHUD](https://github.com/TGMDevelopment/SimpleHUD-Forge)
+- Coordinates - [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073) / [Powns Coords Hud](https://download.powns.dev/coordsmod189) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/) / [SimpleHUD](https://github.com/TGMDevelopment/SimpleHUD-Forge)
 - F Direction - [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073) / [Powns Coords Hud](https://download.powns.dev/coordsmod189) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/)
-- Clock - [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [RoccoDev5Zig Reborn](https://5zigreborn.eu/)
+- Clock - [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [RoccoDev5Zig Reborn](https://5zigreborn.eu/) / [SimpleHUD](https://github.com/TGMDevelopment/SimpleHUD-Forge)
 - Date - [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [RoccoDev5Zig Reborn](https://5zigreborn.eu/)
-- Biome - [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073) / [Powns Coords Hud](https://download.powns.dev/coordsmod189) / [RoccoDev5Zig Reborn](https://5zigreborn.eu/)
+- Biome - [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073) / [Powns Coords Hud](https://download.powns.dev/coordsmod189) / [RoccoDev5Zig Reborn](https://5zigreborn.eu/) / [SimpleHUD](https://github.com/TGMDevelopment/SimpleHUD-Forge)
 - Entity Count - [RoccoDev 5Zig Reborn](https://5zigreborn.eu/)
 - Chunk Caching Info - None
-- Memory - [RoccoDev 5Zig Reborn](https://5zigreborn.eu/)
-- Ping - [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [aycy BLC Port](https://www.youtube.com/watch?v=NAsefZXZbHQ) / [5Zig Reborn](https://5zigreborn.eu/)
+- Memory - [RoccoDev 5Zig Reborn](https://5zigreborn.eu/) / [SimpleHUD](https://github.com/TGMDevelopment/SimpleHUD-Forge)
+- Ping - [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [aycy BLC Port](https://www.youtube.com/watch?v=NAsefZXZbHQ) / [5Zig Reborn](https://5zigreborn.eu/) / [SimpleHUD](https://github.com/TGMDevelopment/SimpleHUD-Forge)
 - Online Players - [RoccoDev 5Zig Reborn](https://5zigreborn.eu/)
-- Server Address - [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/)
+- Server Address - [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/) / [SimpleHUD](https://github.com/TGMDevelopment/SimpleHUD-Forge)
 - Server Support - None
-- Potion Effects - [Powns PotionEffectHud](http://www.mediafire.com/file/pas0pju90s98r6o/%255B1.8.9%255D_Powns%2527_PotionEffect_HUD_-_1.0.jar/file) / [Bsprks PotionStatusHud](https://hypixel.net/threads/bspkrs-mods-for-1-8-9-forge.1207968/) / [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/)
+- Potion Effects - [Powns PotionEffectHud](http://www.mediafire.com/file/pas0pju90s98r6o/%255B1.8.9%255D_Powns%2527_PotionEffect_HUD_-_1.0.jar/file) / [Bsprks PotionStatusHud](https://hypixel.net/threads/bspkrs-mods-for-1-8-9-forge.1207968/) / [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/) / [SimpleHUD](https://github.com/TGMDevelopment/SimpleHUD-Forge)
 - Scoreboard - [Canelex & Powns Sidebar Mod Revamp](https://www.youtube.com/watch?v=cn9VvT43yRs)
 - Combo - [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD)
-- Range - [RoccoDev 5Zig Reborn](https://5zigreborn.eu/)
+- Range - [RoccoDev 5Zig Reborn](https://5zigreborn.eu/) / [SimpleHUD](https://github.com/TGMDevelopment/SimpleHUD-Forge)
 - Speed - [Squeedometer](https://www.curseforge.com/minecraft/mc-mods/squeedometer/files/2495576) / [5Zig Reborn](https://5zigreborn.eu/)
 
 _Items_
-- Armour Status - [Powns ArmorHud](https://download.powns.dev/armorhud189) / [Bsprks ArmorStatusHud](https://hypixel.net/threads/bspkrs-mods-for-1-8-9-forge.1207968/) / [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/)
+- Armour Status - [Powns ArmorHud](https://download.powns.dev/armorhud189) / [Bsprks ArmorStatusHud](https://hypixel.net/threads/bspkrs-mods-for-1-8-9-forge.1207968/) / [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/) / [SimpleHUD](https://github.com/TGMDevelopment/SimpleHUD-Forge)
 
 _External Services_
 - YouTube Subscriber - [Mod + How to Set Up](https://www.youtube.com/watch?v=jjNB1G37Uck)
