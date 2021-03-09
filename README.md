@@ -92,7 +92,7 @@ _External Services_
 - AutoGG - [Sk1er AutoGG](https://sk1er.club/mods/autogg)
 - AutoReconnect - [RoccoDev 5Zig Reborn](https://5zigreborn.eu/)
 - Batty's Coordinates - [Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073) 
-- BetterHat - [Noppes_ More Player Models (**unsure if completely client sided, please test!**)](https://www.curseforge.com/minecraft/mc-mods/more-player-models/files/2284120)
+- BetterHat - None
 - Better Perspective - [DJtheRedstoner Perspective Mod](https://github.com/DJtheRedstoner/PerspectiveModv4/releases/)
 - BetterScreenshot - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - ChatLog - [Cow Cowlection](https://github.com/cow-mc/Cowlection/releases/download/v1.8.9-0.11.0/Cowlection-1.8.9-0.11.0.jar) / Minecraft Logs
