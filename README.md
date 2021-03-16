@@ -75,14 +75,14 @@ _Information_
 - **Online Players** - [RoccoDev 5Zig Reborn](https://5zigreborn.eu/)
 - **Server Address** - [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/) / [SimpleHUD](https://github.com/TGMDevelopment/SimpleHUD-Forge)
 - **Server Support** - None
-- **Potion Effects** - [Powns PotionEffectHud](http://www.mediafire.com/file/pas0pju90s98r6o/%255B1.8.9%255D_Powns%2527_PotionEffect_HUD_-_1.0.jar/file) / [Bsprks PotionStatusHud](https://hypixel.net/threads/bspkrs-mods-for-1-8-9-forge.1207968/) / [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/) / [SimpleHUD](https://github.com/TGMDevelopment/SimpleHUD-Forge)
+- **Potion Effects** - [Powns PotionEffectHud](https://download.powns.dev/potionhud189) / [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/) / [SimpleHUD](https://github.com/TGMDevelopment/SimpleHUD-Forge)
 - **Scoreboard** - [Canelex & Powns Sidebar Mod Revamp](https://www.youtube.com/watch?v=cn9VvT43yRs)
 - **Combo** - [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD)
 - **Range** - [RoccoDev 5Zig Reborn](https://5zigreborn.eu/) / [SimpleHUD](https://github.com/TGMDevelopment/SimpleHUD-Forge)
 - **Speed** - [Squeedometer](https://www.curseforge.com/minecraft/mc-mods/squeedometer/files/2495576) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/)
 
 _Items_
-- **Armor Status** - [Powns ArmorHud](https://download.powns.dev/armorhud189) / [Bsprks ArmorStatusHud](https://hypixel.net/threads/bspkrs-mods-for-1-8-9-forge.1207968/) / [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/) / [SimpleHUD](https://github.com/TGMDevelopment/SimpleHUD-Forge)
+- **Armor Status** - [Powns ArmorHud](https://download.powns.dev/armorhud189) / [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/) / [SimpleHUD](https://github.com/TGMDevelopment/SimpleHUD-Forge)
 
 _External Services_
 - **YouTube Subscriber** - [Mod + How to Set Up](https://www.youtube.com/watch?v=jjNB1G37Uck)
