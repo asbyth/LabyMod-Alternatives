@@ -1,5 +1,6 @@
 
 ## List of LabyMod Features - Alternatives:
+**WIP, please make a PR if anything is missing!**
 
 # Information
 - **Ping in Tablist** - [Sk1er Patcher](https://sk1er.club/mods/patcher)
@@ -62,12 +63,12 @@
 # Ingame GUI 
 
 _Information_
-- **FPS Counter** - [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073) / [Sk1er Keystrokes](https://sk1er.club/mods/keystrokesmod) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/) / [SimpleHUD](https://github.com/TGMDevelopment/SimpleHUD-Forge)  / [Aycy MniInfo](https://www.youtube.com/watch?v=9OwPMxBzQog)
-- **Coordinates** - [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073) / [Powns Coords Hud](https://download.powns.dev/coordsmod189) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/) / [SimpleHUD](https://github.com/TGMDevelopment/SimpleHUD-Forge)
-- **F Direction** - [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073) / [Powns Coords Hud](https://download.powns.dev/coordsmod189) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/)
+- **FPS Counter** - [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [BatHeart Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073) / [Sk1er Keystrokes](https://sk1er.club/mods/keystrokesmod) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/) / [SimpleHUD](https://github.com/TGMDevelopment/SimpleHUD-Forge)  / [Aycy MniInfo](https://www.youtube.com/watch?v=9OwPMxBzQog)
+- **Coordinates** - [Powns Coords Hud](https://download.powns.dev/coordsmod189) / [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [BatHeart Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/) / [SimpleHUD](https://github.com/TGMDevelopment/SimpleHUD-Forge)
+- **F Direction** - [Powns Coords Hud](https://download.powns.dev/coordsmod189) / [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [BatHeart Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/)
 - **Clock** - [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [RoccoDev5Zig Reborn](https://5zigreborn.eu/) / [SimpleHUD](https://github.com/TGMDevelopment/SimpleHUD-Forge)
 - **Date** - [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [RoccoDev5Zig Reborn](https://5zigreborn.eu/)
-- **Biome** - [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073) / [Powns Coords Hud](https://download.powns.dev/coordsmod189) / [RoccoDev5Zig Reborn](https://5zigreborn.eu/) / [SimpleHUD](https://github.com/TGMDevelopment/SimpleHUD-Forge)
+- **Biome** - [Powns Coords Hud](https://download.powns.dev/coordsmod189) / [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [BatHeart Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073) / [RoccoDev5Zig Reborn](https://5zigreborn.eu/) / [SimpleHUD](https://github.com/TGMDevelopment/SimpleHUD-Forge)
 - **Entity Count** - [RoccoDev 5Zig Reborn](https://5zigreborn.eu/)
 - **Chunk Caching Info** - None
 - **Memory** - [RoccoDev 5Zig Reborn](https://5zigreborn.eu/) / [SimpleHUD](https://github.com/TGMDevelopment/SimpleHUD-Forge)
@@ -75,17 +76,17 @@ _Information_
 - **Online Players** - [RoccoDev 5Zig Reborn](https://5zigreborn.eu/)
 - **Server Address** - [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/) / [SimpleHUD](https://github.com/TGMDevelopment/SimpleHUD-Forge)
 - **Server Support** - None
-- **Potion Effects** - [Powns PotionEffectHud](https://download.powns.dev/potionhud189) / [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/) / [SimpleHUD](https://github.com/TGMDevelopment/SimpleHUD-Forge)
+- **Potion Effects** - [Powns PotionHud](https://download.powns.dev/potionhud189) / [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/) / [SimpleHUD](https://github.com/TGMDevelopment/SimpleHUD-Forge)
 - **Scoreboard** - [Canelex & Powns Sidebar Mod Revamp](https://www.youtube.com/watch?v=cn9VvT43yRs)
 - **Combo** - [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD)
 - **Range** - [RoccoDev 5Zig Reborn](https://5zigreborn.eu/) / [SimpleHUD](https://github.com/TGMDevelopment/SimpleHUD-Forge)
-- **Speed** - [Squeedometer](https://www.curseforge.com/minecraft/mc-mods/squeedometer/files/2495576) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/)
+- **Speed** - [squeek502 Squeedometer](https://www.curseforge.com/minecraft/mc-mods/squeedometer/files/2495576) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/)
 
 _Items_
 - **Armor Status** - [Powns ArmorHud](https://download.powns.dev/armorhud189) / [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/) / [SimpleHUD](https://github.com/TGMDevelopment/SimpleHUD-Forge)
 
 _External Services_
-- **YouTube Subscriber** - [Mod + How to Set Up](https://www.youtube.com/watch?v=jjNB1G37Uck)
+- **YouTube Subscriber** - None
 
 _Miscellaneous_
 - **Afk Time** - [RoccoDev 5Zig Reborn](https://5zigreborn.eu/)
@@ -96,11 +97,11 @@ _Miscellaneous_
 - **AntiRage** - None
 - **AutoGG** - [Sk1er AutoGG](https://sk1er.club/mods/autogg)
 - **AutoReconnect** - [RoccoDev 5Zig Reborn](https://5zigreborn.eu/)
-- **Batty's Coordinates** - [Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073) 
+- **Batty's Coordinates** - [BatHeart Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073) 
 - **BetterHat** - None
 - **Better Perspective** - [DJtheRedstoner Perspective Mod](https://github.com/DJtheRedstoner/PerspectiveModv4/releases/)
 - **BetterScreenshot** - [Sk1er Patcher](https://sk1er.club/mods/patcher)
-- **ChatLog** - [Cow Cowlection](https://github.com/cow-mc/Cowlection/releases/download/v1.8.9-0.11.0/Cowlection-1.8.9-0.11.0.jar) / Minecraft Logs
+- **ChatLog** - [Cow Cowlection](https://github.com/cow-mc/Cowlection/releases/) / Minecraft Logs
 - **ChatTime** - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - **ChatTranslator** - None
 - **Color Correction -** None
@@ -112,10 +113,10 @@ _Miscellaneous_
 - **CustomFilterSounds** - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - **CustomFont** - [bre2el SmoothFont](https://www.curseforge.com/minecraft/mc-mods/smooth-font/files/2568454)
 - **Custom Main Menu** - [Lumien231 CMM](https://www.curseforge.com/minecraft/mc-mods/custom-main-menu/files/2280558) & [Lumien231 ResourceLoader](https://www.curseforge.com/minecraft/mc-mods/resource-loader/files/2271089)
-- **CustomTime** - [Shatterpoint TimeChanger](https://github.com/shatter-point/Revamped-TimeChanger/releases/download/v1.2/TimeChanger-2.2.jar)
+- **CustomTime** - [Shatterpoint TimeChanger](https://github.com/shatter-point/Revamped-TimeChanger/releases)
 - **DamageIndicator** (**!!! Bannable on Hypixel !!!**) - [Toro Damage Indicators](https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators/files/2353090)
 - **Direct Connect History** - None
-- **DirectionHUD** - [Reflxtion bspkr's DirectionHud](https://github.com/ReflxctionDev/bspkrsCore/releases/tag/1.24)  (doesn't require bspkrs core)/ [Canalex](https://www.youtube.com/watch?v=Anwxqk2EAlE)
+- **DirectionHUD** - [Reflxtion bspkr's DirectionHud](https://github.com/ReflxctionDev/bspkrsCore/releases/tag/1.24) (doesn't require bspkrs core)/ [Canalex](https://www.youtube.com/watch?v=Anwxqk2EAlE)
 - **FastJoin** - None
 - **Friend Tags** - [Reflxction NameModifier](https://github.com/ReflxctionDev/NameModifier/releases)
 - **FriendViewer** - [Sk1er ModCore](https://sk1er.club/modcore)
@@ -131,14 +132,14 @@ _Miscellaneous_
 - **Item Physics** - [CreativeMD ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files/2439695)
 - **Keystrokes** - [Sk1er Keystrokes](https://sk1er.club/mods/keystrokesmod)
 - **Minigames** - None
-- **MiniMap** (**!!! Bannable on Hypixel !!!**) - [VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap/files/2460202) (requires [LiteLoader](http://www.liteloader.com/download#snapshot_1890)) / [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap/files/2311867) / [Powns Simple MiniMap](https://github.com/pownsgg/MiniMap)
-- **More Particles** - [Dewgs](https://www.mediafire.com/file/z42f9gzegatz9cq/%255B1.8.9%255DParticleMod-1.02.jar/file) / [Aycy OnHitParticles](](https://www.youtube.com/watch?v=OQZFWrrEcYM))
-- **Motion Blur** - [Various Shaders](https://canary.discordapp.com/channels/411619823445999637/411620521382510592/702326988228263936) (Must join Sk1er Discord for link to work) / [Sk1er Motionblur](https://sk1er.club/mods/motionblurmod)
+- **MiniMap** (**!!! Bannable on Hypixel !!!**) - [MamiyaOtaru VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap/files/2460202) (requires [LiteLoader](http://www.liteloader.com/download#snapshot_1890)) / [Techbrew & Mysticdrew JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap/files/2311867) / [Powns Simple MiniMap](https://github.com/pownsgg/MiniMap)
+- **More Particles** - [Dewgs ParticleMod](https://www.mediafire.com/file/z42f9gzegatz9cq/%255B1.8.9%255DParticleMod-1.02.jar/file) / [Aycy OnHitParticles](](https://www.youtube.com/watch?v=OQZFWrrEcYM))
+- **Motion Blur** - [Moulberry Motionblur (BETA)](https://cdn.discordapp.com/attachments/733903046681034813/806188815286665226/MbMotionblur-1.0-REL-Fixed.jar) (Must join Sk1er Discord for link to work) / [Sk1er Motionblur](https://sk1er.club/mods/motionblurmod)
 - **OptiFine** - [sp614x OptiFine](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar)
 - **Rainbow GUI** - [Sk1er ChromaHUD](https://sk1er.club/mods/ChromaHUD)
 - **ResourcePack 24** - [Official Mod](https://resourcepacks24.de/texturepack-mod) / [Aycy Resource Pack Manager](https://www.youtube.com/watch?v=OQZFWrrEcYM) (Only adds ability to make folders)
 - **Send To Server** - None
-- **ShinyPots** - [RoccoDev](https://github.com/RoccoDev/ShinyPots-1.8/releases/tag/1.5)
+- **ShinyPots** - [RoccoDev ShinyPots](https://github.com/RoccoDev/ShinyPots-1.8/releases/tag/1.5)
 - **Spotify** - [DecobrDev MediaMod](https://www.curseforge.com/minecraft/mc-mods/mediamod/files/2797563)
 - **Toggle Sneak** (Sneak & Sprint) - [Powns ToggleSneak](https://download.powns.dev/togglesneak189)
 - **ToggleTab** - [Sk1er Patcher](https://sk1er.club/mods/patcher)
@@ -147,4 +148,12 @@ _Miscellaneous_
 - **VoiceChat** - None
 - **Glint Colorizer** - [Powns Glint Colorizer](https://download.powns.dev/glintcolorizer189)
 - **Focus Movement Fix** - [Sk1er Patcher](https://sk1er.llc/mods/patcher)
-# This list is a work in progress. Mods are subject to change. Please make a PR if there's anything missing.
+
+# Credits
+- [Asbyth](https://github.com/asbyth)
+- [Solonovamax](https://github.com/solonovamax)
+- [SirNapkin1334](https://github.com/sirnapkin1334)
+- [Zoudy](https://github.com/zoudywastaken)
+- [Luna](https://github.com/lunanotdev)
+- [USB](https://github.com/U5B)
+- [MatthewTGM](https://github.com/MatthewTGM)
