@@ -24,7 +24,7 @@
 - **Hide Backside of Entitities** - None ([Sk1er Patcher](https://sk1er.club/mods/patcher) will most likely help performance more than this does)
 
 # Minecraft Chat
-- **Autotext** (**!!! Bannable on Hypixel !!!**) - [MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/2659839) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/)
+- **Autotext** (**!!! Bannable on Hypixel !!!**) - [MattsOnMC MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/2659839) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/)
 - **Name History** - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - **Chat Icons** - [RoccoDev 5Zig Reborn](https://5zigreborn.eu/)
 - **Chat Filter** - [RoccoDev 5Zig Reborn](https://5zigreborn.eu/)
@@ -63,27 +63,27 @@
 # Ingame GUI 
 
 _Information_
-- **FPS Counter** - [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [BatHeart Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073) / [Sk1er Keystrokes](https://sk1er.club/mods/keystrokesmod) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/) / [SimpleHUD](https://github.com/TGMDevelopment/SimpleHUD-Forge)  / [Aycy MniInfo](https://www.youtube.com/watch?v=9OwPMxBzQog)
-- **Coordinates** - [Powns Coords Hud](https://download.powns.dev/coordsmod189) / [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [BatHeart Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/) / [SimpleHUD](https://github.com/TGMDevelopment/SimpleHUD-Forge)
+- **FPS Counter** - [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [BatHeart Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073) / [Sk1er Keystrokes](https://sk1er.club/mods/keystrokesmod) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/) / [MatthewTGM SimpleHUD](https://github.com/TGMDevelopment/SimpleHUD-Forge)  / [Aycy MniInfo](https://www.youtube.com/watch?v=9OwPMxBzQog)
+- **Coordinates** - [Powns Coords Hud](https://download.powns.dev/coordsmod189) / [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [BatHeart Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/) / [MatthewTGM SimpleHUD](https://github.com/TGMDevelopment/SimpleHUD-Forge)
 - **F Direction** - [Powns Coords Hud](https://download.powns.dev/coordsmod189) / [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [BatHeart Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/)
-- **Clock** - [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [RoccoDev5Zig Reborn](https://5zigreborn.eu/) / [SimpleHUD](https://github.com/TGMDevelopment/SimpleHUD-Forge)
+- **Clock** - [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [RoccoDev5Zig Reborn](https://5zigreborn.eu/) / [MatthewTGM SimpleHUD](https://github.com/TGMDevelopment/SimpleHUD-Forge)
 - **Date** - [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [RoccoDev5Zig Reborn](https://5zigreborn.eu/)
-- **Biome** - [Powns Coords Hud](https://download.powns.dev/coordsmod189) / [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [BatHeart Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073) / [RoccoDev5Zig Reborn](https://5zigreborn.eu/) / [SimpleHUD](https://github.com/TGMDevelopment/SimpleHUD-Forge)
+- **Biome** - [Powns Coords Hud](https://download.powns.dev/coordsmod189) / [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [BatHeart Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073) / [RoccoDev5Zig Reborn](https://5zigreborn.eu/) / [MatthewTGM SimpleHUD](https://github.com/TGMDevelopment/SimpleHUD-Forge)
 - **Entity Count** - [RoccoDev 5Zig Reborn](https://5zigreborn.eu/)
 - **Chunk Caching Info** - None
-- **Memory** - [RoccoDev 5Zig Reborn](https://5zigreborn.eu/) / [SimpleHUD](https://github.com/TGMDevelopment/SimpleHUD-Forge)
-- **Ping** - [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [Aycy BLC Port](https://www.youtube.com/watch?v=NAsefZXZbHQ) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/) / [SimpleHUD](https://github.com/TGMDevelopment/SimpleHUD-Forge) / [Aycy MniInfo](https://www.youtube.com/watch?v=9OwPMxBzQog)
+- **Memory** - [RoccoDev 5Zig Reborn](https://5zigreborn.eu/) / [MatthewTGM SimpleHUD](https://github.com/TGMDevelopment/SimpleHUD-Forge)
+- **Ping** - [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [Aycy BLC Ping Port](https://www.youtube.com/watch?v=NAsefZXZbHQ) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/) / [MatthewTGM SimpleHUD](https://github.com/TGMDevelopment/SimpleHUD-Forge) / [Aycy MniInfo](https://www.youtube.com/watch?v=9OwPMxBzQog)
 - **Online Players** - [RoccoDev 5Zig Reborn](https://5zigreborn.eu/)
 - **Server Address** - [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/) / [SimpleHUD](https://github.com/TGMDevelopment/SimpleHUD-Forge)
 - **Server Support** - None
-- **Potion Effects** - [Powns PotionHud](https://download.powns.dev/potionhud189) / [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/) / [SimpleHUD](https://github.com/TGMDevelopment/SimpleHUD-Forge)
+- **Potion Effects** - [Powns PotionHud](https://download.powns.dev/potionhud189) / [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/) / [MatthewTGM SimpleHUD](https://github.com/TGMDevelopment/SimpleHUD-Forge)
 - **Scoreboard** - [Canelex & Powns Sidebar Mod Revamp](https://www.youtube.com/watch?v=cn9VvT43yRs)
 - **Combo** - [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD)
-- **Range** - [RoccoDev 5Zig Reborn](https://5zigreborn.eu/) / [SimpleHUD](https://github.com/TGMDevelopment/SimpleHUD-Forge)
+- **Range** - [RoccoDev 5Zig Reborn](https://5zigreborn.eu/) / [MatthewTGM SimpleHUD](https://github.com/TGMDevelopment/SimpleHUD-Forge)
 - **Speed** - [squeek502 Squeedometer](https://www.curseforge.com/minecraft/mc-mods/squeedometer/files/2495576) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/)
 
 _Items_
-- **Armor Status** - [Powns ArmorHud](https://download.powns.dev/armorhud189) / [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/) / [SimpleHUD](https://github.com/TGMDevelopment/SimpleHUD-Forge)
+- **Armor Status** - [Powns ArmorHud](https://download.powns.dev/armorhud189) / [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/) / [MatthewTGM SimpleHUD](https://github.com/TGMDevelopment/SimpleHUD-Forge)
 
 _External Services_
 - **YouTube Subscriber** - None
