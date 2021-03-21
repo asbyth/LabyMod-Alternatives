@@ -92,6 +92,7 @@ _Miscellaneous_
 - **Afk Time** - [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
 - **Click Test** -  [Aycy's MniInfo](https://www.youtube.com/watch?v=9OwPMxBzQog)
 - **Lava Challenge Time** - none
+
 # Addons
 - **Anti Clear Chat** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **AntiRage** - None
