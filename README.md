@@ -9,7 +9,7 @@
 - **Out of Memory Warning** - None (Check F3)
 
 # Animations
-- **1.7 Animations** - [Sk1er's Old Animations (Beta](https://sk1er.club/beta) - Only currently available in Sk1er Discord, currently missing item switch)
+- **1.7 Animations** - [Sk1er's Old Animations Beta](https://sk1er.club/beta) (Only currently available in Sk1er Discord, currently missing item switch)
 
 # Bugfixes
 - **Lava Optimization** - [Powns's Lava Fix](https://download.powns.dev/lavafix189)
