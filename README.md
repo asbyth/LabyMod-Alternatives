@@ -72,7 +72,7 @@ _Information_
 - **Entity Count** - [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
 - **Chunk Caching Info** - None
 - **Memory** - [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
-- **Ping** - [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [Aycy's BLC Ping Port](https://www.youtube.com/watch?v=NAsefZXZbHQ) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/) / [Aycy's MniInfo](https://www.youtube.com/watch?v=9OwPMxBzQog)
+- **Ping** - [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [Aycy's BLC Ping Port](https://www.youtube.com/watch?v=NAsefZXZbHQ) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/) / [Aycy's MiniInfo](https://www.youtube.com/watch?v=9OwPMxBzQog)
 - **Online Players** - [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
 - **Server Address** - [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/) /
 - **Server Support** - None
