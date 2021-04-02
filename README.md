@@ -18,7 +18,7 @@
 - **Particle Optimization** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 
 # Performance
-- **Chunk Caching -** None
+- **Chunk Caching -** None, server's must have support for it anyway.
 - **Fast World Loading** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Hide Entities Behind Blocks** - [Sk1er's Patcher](https://sk1er.club/mods/patcher)
 - **Hide Backside of Entitities** - None ([Sk1er Patcher](https://sk1er.club/mods/patcher) will most likely help performance more than this does)
