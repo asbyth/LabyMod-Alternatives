@@ -63,7 +63,7 @@
 # Ingame GUI 
 
 _Information_
-- **FPS Counter** - [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [BatHeart's Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073) / [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/) / [Aycy's MniInfo](https://www.youtube.com/watch?v=9OwPMxBzQog)
+- **FPS Counter** - [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [BatHeart's Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073) / [Sk1er's Keystrokes](https://sk1er.club/mods/keystrokesmod) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/) / [Aycy's MiniInfo](https://www.youtube.com/watch?v=9OwPMxBzQog)
 - **Coordinates** - [Powns's Coords Hud](https://download.powns.dev/coordsmod189) / [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [BatHeart's Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
 - **F Direction** - [Powns's Coords Hud](https://download.powns.dev/coordsmod189) / [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [BatHeart's Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
 - **Clock** - [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [RoccoDev5Zig's Reborn](https://5zigreborn.eu/)
@@ -72,7 +72,7 @@ _Information_
 - **Entity Count** - [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
 - **Chunk Caching Info** - None
 - **Memory** - [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
-- **Ping** - [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [Aycy's BLC Ping Port](https://www.youtube.com/watch?v=NAsefZXZbHQ) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/) / [Aycy's MniInfo](https://www.youtube.com/watch?v=9OwPMxBzQog)
+- **Ping** - [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [Aycy's BLC Ping Port](https://www.youtube.com/watch?v=NAsefZXZbHQ) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/) / [Aycy's MiniInfo](https://www.youtube.com/watch?v=9OwPMxBzQog)
 - **Online Players** - [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
 - **Server Address** - [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/) /
 - **Server Support** - None
