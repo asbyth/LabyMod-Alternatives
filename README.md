@@ -1,6 +1,6 @@
 
 ## List of LabyMod Features - Alternatives:
-LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics, and just low FPS. Therefore, it is advised that you avoid using it at all costs.
+**LabyMod has a bunch of problems that cause mod incompatibilities, weird graphics, and just low FPS. Therefore, it is advised that you avoid using it at all costs.**
 
 **WIP, please make a PR if anything is missing!**
 
